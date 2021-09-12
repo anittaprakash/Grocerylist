@@ -1,0 +1,93 @@
+{
+    "Grocery":[
+    {
+        "SINo":"1",
+        "Item":"Apple",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":"Fruits",
+        "Note":"Sweet"
+
+    },
+    {
+        "SINo":"2",
+        "Item":"Lemon",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":"Vegetable",
+        "Note":"Small size"
+
+    },
+    {
+        "SINo":"3",
+        "Item":"Biscuit",
+        "Quatity":"2",
+        "Unit":"Packets",
+        "category":"Snacks&chips",
+        "Note":"Semi sweet"
+
+    },
+    {
+        "SINo":"4",
+        "Item":"Oil",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":" Oil",
+        "Note":"Pure coconut oil"
+
+    },
+    {
+        "SINo":"5",
+        "Item":"Onion",
+        "Quatity":"2",
+        "Unit":"Kg",
+        "category":"Vegetables",
+        "Note":"Medium size"
+
+    },
+    {
+        "SINo":"6",
+        "Item":"Potato",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":"Vegetables",
+        "Note":"Medium size"
+    },
+    {
+        "SINo":"7",
+        "Item":"Rice",
+        "Quatity":"10",
+        "Unit":"Kg",
+        "category":"Rice",
+        "Note":"Brown Rice"
+    },
+    {
+        "SINo":"8",
+        "Item":"Grapes",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":"Fruits",
+        "Note":"Fresh"
+    },
+    {
+        "SINo":"9",
+        "Item":"Sandwich",
+        "Quatity":"4",
+        "Unit":"Nos",
+        "category":"Bakery",
+        "Note":"Fresh"
+    },
+    {
+        "SINo":"10",
+        "Item":"Fish",
+        "Quatity":"1",
+        "Unit":"Kg",
+        "category":"Frozen Foods",
+        "Note":"Bony Fish"
+    }
+
+
+
+    ]
+    
+}
