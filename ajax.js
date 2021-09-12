@@ -10,10 +10,10 @@ function ajax()
             
                 output +="<tr>"+ 
                     "<th>"+ "Sl No" +"</th>"+
-                    "<th>"+ "Items "+"</th>"+
+                    "<th>"+ "Name "+"</th>"+
                     "<th>"+ "Quantity" +"</th>"+
                     "<th>"+ "Unit" +"</th>"+
-                    "<th>"+ "Category" +"</th>"+
+                    "<th>"+ "Department" +"</th>"+
                     "<th>"+ "Notes" +"</th>"
                 +"<tr>";
               
